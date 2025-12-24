@@ -1,1 +1,1 @@
-to multiply use multiply operator
+to multiply use multiply operator *
